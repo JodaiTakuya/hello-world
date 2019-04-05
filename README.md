@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
 
-Hi guys!
+Hi!
 
-I like earth.
+I like nature.
